@@ -1,0 +1,7 @@
+go.sum
+/api
+*.swp
+*.bk
+
+# IDE
+.idea/**
